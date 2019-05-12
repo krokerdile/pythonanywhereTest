@@ -7,7 +7,7 @@ A Simple Django Starter Code for Django News/Blog Website
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Open Terminal.
-2. Paste `https://github.com/kashishshah881/django-blog-boilerplate.git`
+2. Paste `git clone https://github.com/kashishshah881/django-blog-boilerplate.git`
 #### Or
 1. Download the zip file.
 2. Unzip it in your desired folder.
